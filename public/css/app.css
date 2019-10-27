@@ -11101,7 +11101,7 @@ a.text-dark:focus {
 }
 
 nav {
-  background-color: #55c501;
+  background-color: #3d91e8;
 }
 
 nav #Navber .navbar-nav .nav-item #post-link {
@@ -11128,7 +11128,7 @@ body {
 }
 
 #login-wrapper {
-  background-color: #55C501;
+  background-color: #3d91e8;
 }
 
 #login-wrapper .col-7 {
@@ -11164,12 +11164,12 @@ body {
 #login-wrapper .col-5 form table tr td input[type=submit] {
   width: 110px;
   color: white;
-  background-color: #55C501;
+  background-color: #3d91e8;
   border: solid 2px white;
 }
 
 #login-wrapper {
-  background-color: #55C501;
+  background-color: #3d91e8;
 }
 
 #login-wrapper .col-7 {
@@ -11205,7 +11205,7 @@ body {
 #login-wrapper .col-5 form table tr td input[type=submit] {
   width: 110px;
   color: white;
-  background-color: #55C501;
+  background-color: #3d91e8;
   border: solid 2px white;
 }
 
@@ -11300,7 +11300,7 @@ body {
 }
 
 .post-page-wrapper .post-page-footer .post-button {
-  background-color: #55C501;
+  background-color: #3d91e8;
   color: white;
   border-radius: 0.25rem;
   width: 7rem;
@@ -11399,7 +11399,7 @@ body {
 }
 
 .post-page-wrapper .post-page-footer .post-button {
-  background-color: #55C501;
+  background-color: #3d91e8;
   color: white;
   border-radius: 0.25rem;
   width: 7rem;
